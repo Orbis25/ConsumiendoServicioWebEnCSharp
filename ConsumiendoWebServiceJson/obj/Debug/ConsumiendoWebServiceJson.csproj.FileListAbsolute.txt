@@ -1,0 +1,11 @@
+C:\Users\Orbis\source\repos\ConsumiendoWebServiceJson\ConsumiendoWebServiceJson\bin\Debug\ConsumiendoWebServiceJson.exe.config
+C:\Users\Orbis\source\repos\ConsumiendoWebServiceJson\ConsumiendoWebServiceJson\bin\Debug\ConsumiendoWebServiceJson.exe
+C:\Users\Orbis\source\repos\ConsumiendoWebServiceJson\ConsumiendoWebServiceJson\bin\Debug\ConsumiendoWebServiceJson.pdb
+C:\Users\Orbis\source\repos\ConsumiendoWebServiceJson\ConsumiendoWebServiceJson\obj\Debug\ConsumiendoWebServiceJson.csprojAssemblyReference.cache
+C:\Users\Orbis\source\repos\ConsumiendoWebServiceJson\ConsumiendoWebServiceJson\obj\Debug\ConsumiendoWebServiceJson.csproj.CoreCompileInputs.cache
+C:\Users\Orbis\source\repos\ConsumiendoWebServiceJson\ConsumiendoWebServiceJson\obj\Debug\ConsumiendoWebServiceJson.exe
+C:\Users\Orbis\source\repos\ConsumiendoWebServiceJson\ConsumiendoWebServiceJson\obj\Debug\ConsumiendoWebServiceJson.pdb
+C:\Users\Orbis\source\repos\ConsumiendoWebServiceJson\ConsumiendoWebServiceJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Orbis\source\repos\ConsumiendoWebServiceJson\ConsumiendoWebServiceJson\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Orbis\source\repos\ConsumiendoWebServiceJson\ConsumiendoWebServiceJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Orbis\source\repos\ConsumiendoWebServiceJson\ConsumiendoWebServiceJson\obj\Debug\ConsumiendoWebServiceJson.csproj.CopyComplete

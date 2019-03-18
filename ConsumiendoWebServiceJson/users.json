@@ -1,0 +1,64 @@
+{
+  "result": 
+  {
+    "results": [
+      {
+        "gender": "male",
+        "name": {
+          "title": "mr",
+          "first": "enrique",
+          "last": "gomez"
+        },
+        "location": {
+          "street": "1244 manor road",
+          "city": "lichfield",
+          "state": "suffolk",
+          "postcode": "J01 8BG",
+          "coordinates": {
+            "latitude": "15.4027",
+            "longitude": "-65.6513"
+          },
+          "timezone": {
+            "offset": "-8:00",
+            "description": "Pacific Time (US & Canada)"
+          }
+        },
+        "email": "enrique.gomez@example.com",
+        "login": {
+          "uuid": "452167d9-2c51-4fdc-b9ed-b538f89b78b5",
+          "username": "tinysnake728",
+          "password": "mariners",
+          "salt": "kXue9YWT",
+          "md5": "f42a150f10ff4fcef4c6e2a4ef9b1c80",
+          "sha1": "a27acf826521217e274c4e19c8d4551c1aaa414b",
+          "sha256": "160874b0a18b0928f04b6e3a8b0659a5537987f2e441cdf49c017de8947d5c4e"
+        },
+        "dob": {
+          "date": "1962-01-19T10:18:58Z",
+          "age": 57
+        },
+        "registered": {
+          "date": "2005-10-30T16:45:22Z",
+          "age": 13
+        },
+        "phone": "017684 68427",
+        "cell": "0730-045-184",
+        "id": {
+          "name": "NINO",
+          "value": "EA 43 77 80 S"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/53.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+        },
+        "nat": "GB"
+      }
+    ],
+    "info": {
+      "seed": "a38c2246456bf56b",
+      "results": 1,
+      "page": 1,
+      "version": "1.2"
+    }
+  }}
